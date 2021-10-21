@@ -10,7 +10,8 @@
 🌱Estudando atualmente:<strong> JavaScript, ReactJS e Node.js.</strong>
 </br>
 </br>
-💼 Ferramentas: VSCode, Figma, Git e GitHub
+💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub</strong>
+</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ALEX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
