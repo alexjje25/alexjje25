@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/iuricode/iuricode/e9c1b1ae015e0d1156a1dd433022850afa2fb19d/pc.svg" min-width="400px" 
-<p align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
+</div>
   Olá, meu nome é Alex Santos. Sou Desenvolvedor de Front-End.
 </p>
 
@@ -24,6 +25,6 @@
 </BR>
 </BR>
   
-<a href="https://www.linkedin.com/in/alex-santos-54b470164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  PHP,SQL, HTML, CSS, JavaScript, CSS, ReactJS, Next.js e Styled Components.
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </br>
 </br>
