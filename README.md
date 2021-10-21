@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" 
+<img src="https://raw.githubusercontent.com/iuricode/iuricode/e9c1b1ae015e0d1156a1dd433022850afa2fb19d/pc.svg" min-width="400px" 
 <p align="left">
   Olá, meu nome é Alex Santos. Sou Desenvolvedor de Front-End.
 </p>
