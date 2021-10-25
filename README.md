@@ -10,7 +10,7 @@
 🌱Estudando atualmente:<strong> JavaScript, ReactJS e Node.js.</strong>
 </br>
 </br>
-💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub</strong>
+💼 Ferramentas: <strong>VSCode, Figma, Git </strong>
 </br>
 
 <div style="display: inline_block"><br>
