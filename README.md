@@ -7,9 +7,6 @@
 🚀Habilidades:  <strong> PHP,SQL, HTML, CSS, JavaScript, CSS, ReactJS, Next.js e Styled Components. </strong>
 </br>
 </br>
-🌱Estudando atualmente:<strong> JavaScript, ReactJS e Node.js.</strong>
-</br>
-</br>
 💼 Ferramentas: <strong>VSCode, Figma, Git </strong>
 </br>
 
