@@ -4,7 +4,7 @@
   Olá, meu nome é Alex Santos. Sou Desenvolvedor de Front-End.
 </p>
 
-🚀Habilidades:  <strong> ReactJS e Styled Components, NodeJs, JavaScript, PHP,MYSQL, HTML, CSS </strong>
+🚀Habilidades:  <strong> ReactJS e Styled Components, NodeJs, JavaScript, PHP, MYSQL, HTML, CSS </strong>
 </br>
 </br>
 💼 Ferramentas: <strong>VSCode, Figma, Git </strong>
