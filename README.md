@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 </div>
-  Olá, meu nome é Alex Santos. Sou Desenvolvedor Front-End.
+  Olá, meu nome é Alex Santos. Atuo como Desenvolvedor Front-End.
 </p>
 
 🚀Habilidades:  <strong> JavaScript, Typescript, ReactJS, NextJs, Material UI, Chakra UI, NodeJS</strong>
