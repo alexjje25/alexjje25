@@ -4,10 +4,10 @@
   Olá, meu nome é Alex Santos. Atuo como Desenvolvedor Front-End.
 </p>
 
-🚀Habilidades:  <strong> JavaScript, Typescript, ReactJS, NextJs, Material UI, Chakra UI, NodeJS </strong>
+🚀 Habilidades:  <strong> JavaScript, Typescript, ReactJS, NextJs, Material UI, Chakra UI, NodeJS </strong>
 </br>
 </br>
-🏦Banco de Dados : <strong>MySQL<strong>
+🏦 Banco de Dados : <strong>MySQL<strong>
 </br>
 </br>
 💼 Ferramentas: <strong>VSCode, Figma, Git </strong>
