@@ -6,6 +6,7 @@
 
 🚀Habilidades:  <strong> JavaScript, Typescript, ReactJS, NextJs, Material UI, Chakra UI, NodeJS, MySQL</strong>
 </br>
+🏦 Banco de Dados : <strong>Mysql<strong>
 </br>
 💼 Ferramentas: <strong>VSCode, Figma, Git </strong>
 </br>
